@@ -1,6 +1,6 @@
 {
-  "name": "c-struct",
-  "version": "0.0.3",
+  "name": "c-struct-v2",
+  "version": "2.0.1",
   "description": "A C-struct library to manage binary structures with Node.JS",
   "main": "index.js",
   "directories": {
